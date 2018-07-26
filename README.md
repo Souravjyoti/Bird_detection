@@ -9,7 +9,7 @@ Directions:
 
 Introduction:
   
-  Many airplane desasters till date have taken place because of birds. Birds flying near the runways are a constant threat
+  Many airplane disasters till date have taken place because of birds. Birds flying near the runways are a constant threat
 to planes. Therefore this project aims at detecting birds in and around the airports and also produce a warning(this part is yet to be added). 
 
 Description and working:
