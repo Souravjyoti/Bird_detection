@@ -19,9 +19,6 @@ Description and working:
   Here are some snaps of the program......
   
  ![screenshot1](https://user-images.githubusercontent.com/31644207/43323516-7f56488c-91cf-11e8-8649-55983896b71b.jpg)
-
-  ![screenshot from 2018-07-27 01-35-27](https://user-images.githubusercontent.com/31644207/43323596-b778500c-91cf-11e8-99da-33069096baa9.png)
-  
   
   With larger data and more computation power, this model can be improved to a great extent.
   
